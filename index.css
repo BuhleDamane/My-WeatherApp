@@ -51,15 +51,16 @@ a{
 .weather-app-temperature{
     display: flex;
     color: #272142;
+   
+    
 }
 .weather-app-temperature-number{
     font-size: 70px;
     font-weight: bold;
 }
 .weather-app-icon{
-    font-size: 40px;
-    top: -8px;
-    margin: 10px;
+    width: 88px;
+    height: 88px;
 }
 .weather-app-unit{
     position: relative;
